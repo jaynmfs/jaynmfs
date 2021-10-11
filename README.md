@@ -16,6 +16,7 @@
 ### Web Development
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=vite-react-ts-proto&theme=dark)](https://github.com/jaynmfs/vite-react-ts-proto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=next-nest-proto&theme=dark)](https://github.com/jaynmfs/next-nest-proto)
 
 ### DevOps
 
