@@ -5,28 +5,3 @@
 ## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynmfs&layout=compact&theme=dark)](https://github.com/jaynmfs/jaynmfs)
-
-## Repositories (Sort by Interest)
-
-### Bloackchain
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=hardhat-boilerplate&theme=dark)](https://github.com/jaynmfs/hardhat-boilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=hardhat101&theme=dark)](https://github.com/jaynmfs/hardhat101)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=hardhat101-ts&theme=dark)](https://github.com/jaynmfs/hardhat101-ts)
-
-### Web Development
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=vite-react-ts-proto&theme=dark)](https://github.com/jaynmfs/vite-react-ts-proto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaynmfs&repo=next-nest-proto&theme=dark)](https://github.com/jaynmfs/next-nest-proto)
-
-### DevOps
-
-Comming soon ...
-
-### Mobile App Development
-
-Comming soon ...
-
-### Uncategories
-
-Comming soon ...
